@@ -1,2 +1,5 @@
 
 Discipline is the bridge between goals and accomplishment
+This is a quote
+This is another quote
+Get those commits

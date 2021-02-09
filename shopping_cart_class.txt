@@ -1,0 +1,16 @@
+class ShoppingCart
+
+Attributes
+number_of_items (integer)
+total_price (float)
+shipping_cost (float)
+user (string)
+item_quantity (integer)
+items (array)
+
+Methods
+add_item (appends item to items array and increments number_of_items by 1))
+compute_cost (adds shipping cost and total_price)
+empty (clears all items from cart)
+
+
